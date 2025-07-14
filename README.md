@@ -32,7 +32,6 @@ The goal is to identify how variables such as age, BMI, smoking status, region, 
  # 🔍 **Key Insights**
 
  1. **Smoker Impact**: Smokers incur significantly higher insurance charges compared to non-smokers, indicating smoking is a major cost driver.
-
  2. **BMI Influenc**e: Individuals categorized as Obese (BMI ≥ 30) face noticeably higher medical charges, showing BMI's strong correlation with cost.
 
  3. **Gender Neutrality**: Average insurance charges are nearly identical for both males and females, indicating gender doesn’t significantly influence costs.
